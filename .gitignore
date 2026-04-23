@@ -1,0 +1,5 @@
+agrotech/node_modules/
+agrotech/build/
+agrotech/.env
+agrotech/.env.*
+*.log
